@@ -52,7 +52,7 @@ const Hello = () => {
         <div class="form-button">
           <button type="submit" class="btn btn-primary">Register</button>
         </div>
-        \
+        
         
       </form>
     </div>
